@@ -54,7 +54,7 @@ Tecnológico Nacional de México Campus Tijuana
 Estudiantes de la carrera de Ingeniería Informática:
 - Erick Abel Lopez Rubio (autor del repositorio)
 - Columba Trejo Ortiz
-- Pedro Jared Jimenez
+- Pedro Jared Martinez Almazan
 
 **El proyecto se encuentra bajo supervisión de...**
 Docente de la materia "Programación en Ambiente Cliente/Servidor".
